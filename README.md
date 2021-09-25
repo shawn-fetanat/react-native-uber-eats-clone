@@ -25,7 +25,7 @@
   - `STRIPE_API_URL` (this is the route i created in `/api`)
 - Also, there is a `.env` file in the `/api` folder to store:
   - `STRIPE_SECRET_KEY`
-- Just keep in mind that to spin up this project you also have to add your firebase info to `firebase.config`
+- Just keep in mind that to spin up this project you also have to add your info from firebase to `firebase.config`
 
 #### Side Note: I tried using `react-native-dotenv` but man does it suck. You need to keep on refreshing the cache and it was just a hassle to deal with so I decided to store API keys in a file instead and just export them where needed to "simulate" using environment variables lol.
 
