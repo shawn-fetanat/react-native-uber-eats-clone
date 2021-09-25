@@ -49,5 +49,6 @@
 - Added a `Login` screen and a `SignUp` screen
 - Added a "Log Out" button to the `Account` screen
 - Added a simple lotti animation to the `Grocery screen`
+- Added an `authReducer` to handle authneticating user
 
 #### App Screenshots & Video: https://drive.google.com/drive/folders/1E1eOh-A0_JOXyHagE7aWcnyNyEUyoBTL
