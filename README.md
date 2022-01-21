@@ -27,6 +27,6 @@
   - `STRIPE_SECRET_KEY`
 - Just keep in mind that to spin up this project you also have to add your info from firebase to `firebase.config`
 
-#### Side Note: I tried using `react-native-dotenv` but man does it suck. You need to keep on refreshing the cache and it was just a hassle to deal with so I decided to store API keys in a file instead and just export them where needed to "simulate" using environment variables lol.
+#### Side Note: I tried using `react-native-dotenv` but man does it suck. You need to keep on refreshing the cache and it was just a hassle to deal with so I decided to store API keys in a file instead and just export them where needed to "simulate" using environment variables.
 
 #### App Screenshots & Video: https://drive.google.com/drive/folders/1E1eOh-A0_JOXyHagE7aWcnyNyEUyoBTL
